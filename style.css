@@ -2,6 +2,7 @@ body {
     font-family: "Open Sans"; 
 }
 h1 { 
+    font-size: 64px;
     font-family: Lato;
     font-weight: 550;
     position: relative;
@@ -57,7 +58,6 @@ span.sep {
 .container {
     max-width: 970px; 
 }
-
 .blog-container {
    font-family: "monosans";
    width: 750px; 
@@ -96,31 +96,15 @@ b {
 }
 
 p {
+
 }
-
-
 img.headshot {
-    width:120px;
-    max-width:100%;
-    float:left
+    width:125px;max-width:100%;float:left
 }
 
-a.pub_img {
-    margin-top: auto;
-    margin-bottom: auto;
-    min-width: 80px; !important;
-    max-width: 80px; !important;
-    min-height: 80px; !important;
-    max-height: 80px; !important;
-    margin-right: 20px; !important;
+img.headshot-right {
+    width:125px;max-width:100%;float:right
 }
-
-img.pub_img {
-    margin-top: auto;
-    margin-bottom: auto;
-}
-
-
 
 img.seal {
     width:90px;max-width:100%;float:left
@@ -130,4 +114,21 @@ img.seal {
 img.blogimg {
     width: 100%;
 }
+
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
